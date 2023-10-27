@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm AbdQudus. I'm a frontend developer.
+I have a strong interest for JavaScript and I love the language.
+I'm currently learning React and i'd like to collaborate with like minds.
+You can reach me on twitter @ twitter.com/abdkhudus
+My pronouns are he/him
 <!--
 **abdqudus/abdqudus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
